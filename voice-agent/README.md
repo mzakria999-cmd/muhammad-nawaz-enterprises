@@ -4,7 +4,7 @@ Zaki's personal voice assistant, built on ElevenLabs Agents.
 
 - **Talk to it:** https://elevenlabs.io/app/talk-to?agent_id=agent_0901m7nt31bpejktby4gt34s5wpg
 - **Agent ID:** agent_0901m7nt31bpejktby4gt34s5wpg
-- **Languages:** English (default), Urdu, German, switched automatically
+- **Languages:** English (default), Urdu, Pashto, German, switched automatically
 - **Brain:** Claude Haiku 5.5 with a knowledge base
 
 ## What it knows
