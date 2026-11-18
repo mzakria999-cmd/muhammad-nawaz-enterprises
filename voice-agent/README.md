@@ -13,6 +13,8 @@ Zaki's personal voice assistant, built on ElevenLabs Agents.
 - German asylum and residence law (procedure, interview, protection types, deadlines,
   Dublin/EU Pact, Duldung, ways to stay, family reunification, free help):
   `knowledge/04-asylum-law-guide.md`
+- Hannover history, sights, museums, events and tips (for everyone):
+  `knowledge/05-hannover-guide.md`
 - Zaki's personal profile (family only, after the family code). It lives only in
   ElevenLabs, not in this repository. The code is also kept only in ElevenLabs.
 - Behaviour rules: `knowledge/03-agent-rules.md`
